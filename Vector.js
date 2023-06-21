@@ -8,7 +8,7 @@
         import { vec3 } from 'scripts/Vector.js'; 
 */
 
-//export { vec2, vec3 };
+export { vec2, vec3, vec4 };
 
 /**
 * Creates a Vec2
